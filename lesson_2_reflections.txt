@@ -6,3 +6,6 @@ In the staging area you make a version of a file that becomes a commit and it re
 
 How can you use the staging area to make sure you have one commit per logical change?
 Bij compering working directory with staging area using git diff. Also double checking by using git diff —staged to compare staged with commit. ???
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Bla, bla, bla
