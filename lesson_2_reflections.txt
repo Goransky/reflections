@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+In the staging area you make a version of a file that becomes a commit and it reflects your changes. The staging area is a snap shot of the current file an has through commits a different versions. A working area is actual file and repository contains all the files of a git.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Bij compering working directory with staging area using git diff. Also double checking by using git diff —staged to compare staged with commit. ???
